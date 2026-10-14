@@ -1,0 +1,3 @@
+([('Kopia',
+   '/Users/mimmolino/LFTP_Manager_Windows_V4_1/dist/Kopia',
+   'EXECUTABLE')],)
